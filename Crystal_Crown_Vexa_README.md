@@ -1,4 +1,4 @@
-Crystal Crown - Vexa
+Crystal Crown Vexa - Gem Dragonborn CC
 
 [ModIO](https://mod.io/g/baldursgate3/m/crystal-crown-vexa-gem-dragonborn-cc#description)
 [Nexus](https://www.nexusmods.com/baldursgate3/mods/13612)
