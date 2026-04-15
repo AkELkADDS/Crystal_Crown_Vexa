@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133 
-   Wed 04/15/2026 13:19:52.07 
+   Wed 04/15/2026 13:22:05.34 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -676,7 +676,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 1:19:55 PM
+  Started : Wednesday, April 15, 2026 1:22:08 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\Projects\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
 
@@ -687,7 +687,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\meta.lsx100%  
-	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\thumbnail.png 10%  100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\thumbnail.png 21%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -700,7 +700,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           4906182000 Bytes/sec.
    Speed :           280733.985 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 1:19:55 PM
+   Ended : Wednesday, April 15, 2026 1:22:08 PM
 
  
 [DEBUG] Counting source files 
@@ -726,7 +726,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 1:19:57 PM
+  Started : Wednesday, April 15, 2026 1:22:10 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\Editor\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
 
@@ -749,7 +749,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           615595000 Bytes/sec.
    Speed :           35224.628 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 1:19:57 PM
+   Ended : Wednesday, April 15, 2026 1:22:10 PM
 
  
 [DEBUG] Counting source files 
@@ -775,7 +775,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 1:19:59 PM
+  Started : Wednesday, April 15, 2026 1:22:12 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
 
@@ -786,7 +786,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    7790	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\meta.lsx100%  
-	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\mod_publish_logo.png100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\GUI\metadata.lsf100%  
 	    New File  		   44587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\Localization\English\english.xml100%  
 
@@ -801,7 +801,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2479506000 Bytes/sec.
    Speed :           141878.471 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 1:19:59 PM
+   Ended : Wednesday, April 15, 2026 1:22:12 PM
 
  
 [DEBUG] Counting source files 
@@ -827,7 +827,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 1:20:01 PM
+  Started : Wednesday, April 15, 2026 1:22:14 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\Public\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
 
@@ -1450,9 +1450,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            16930372 Bytes/sec.
-   Speed :             968.763 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 1:20:01 PM
+   Speed :            16446647 Bytes/sec.
+   Speed :             941.084 MegaBytes/min.
+   Ended : Wednesday, April 15, 2026 1:22:14 PM
 
  
 [DEBUG] Counting source files 
@@ -1478,7 +1478,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 1:20:02 PM
+  Started : Wednesday, April 15, 2026 1:22:16 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\Generated\Public\CCrwn_Vexa_260c40ae-1c11-fd88-6a98-ab8035ac3133\
 
@@ -1514,7 +1514,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           810306666 Bytes/sec.
    Speed :           46366.119 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 1:20:02 PM
+   Ended : Wednesday, April 15, 2026 1:22:16 PM
 
  
 [DEBUG] Counting source files 
